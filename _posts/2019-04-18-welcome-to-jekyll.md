@@ -15,5 +15,5 @@ Assuming that the frontend and backend codes are already reacted.
 #### STEP 1:
 
 Create a repository in docker hub.
-(assets/images/image.png)
+![Docker-hub](assets/images/image.png)
 
