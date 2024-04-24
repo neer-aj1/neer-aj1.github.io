@@ -18,5 +18,6 @@ Create a repository in docker hub.
 ![Docker-hub](/assets/images/image.png)
 
 #### STEP 2:
-Make docker 
+Make dockerfile for the frontend like below:
+![Dockerfile-frontend](/assets/images/Screenshot 2024-04-24 113511.png)
 
